@@ -7,7 +7,7 @@ Saber programar é secundario, criar soluções bem definidas
 Quanto mais experiente, mais obvio ficam os caminhos que levam a solução
 '''
 
-mysalary = 3510
+mysalary = 1000
 
 myhoursw = 5.50 * 5
 print(myhoursw)
